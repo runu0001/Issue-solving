@@ -1,3 +1,3 @@
 # Issue-solving
 
-To do issues in the code
+To fix issues in the code
